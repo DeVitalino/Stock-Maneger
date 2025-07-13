@@ -1,6 +1,8 @@
 # 📦 Stock Manager
 
-Sistema funcional para gerenciamento de produtos e vendas em estoque.  
+Sistema funcional para gerenciamento de produtos e vendas em estoque.
+git 
+Backend completo para gerenciamento de estoque, construído com foco em escalabilidade, organização e boas práticas. O sistema ideal pra quem quer fugir das planilhas e manter o controle do que realmente importa.  
 
 ---
 
